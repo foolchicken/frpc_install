@@ -15,7 +15,7 @@ fatedier/frp项目：https://github.com/fatedier/frp
 # 使用方法：(用root权限)
 1. 下载脚本文件：
 
-
+> https://raw.githubusercontent.com/foolchicken/frpc_install/main/frpc_install.sh
 
 2. 给脚本添加权限：
 
