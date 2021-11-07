@@ -15,19 +15,19 @@ fatedier/frp项目：https://github.com/fatedier/frp
 # 使用方法：(用root权限)
 1. 下载脚本文件：
 
-wget https://github.com/foolchicken/frpc_install/blob/main/frpc_install.sh
+> wget https://github.com/foolchicken/frpc_install/blob/main/frpc_install.sh
 
 如果下载失败可以用github镜像源：
 
-wget --no-check-certificate https://github.com.cnpmjs.org/foolchicken/frpc_install/blob/main/frpc_install.sh
+> wget --no-check-certificate https://github.com.cnpmjs.org/foolchicken/frpc_install/blob/main/frpc_install.sh
 
 2. 给脚本添加权限：
 
-chmod +x frpc_install.sh
+> chmod +x frpc_install.sh
 
 3. 运行脚本：
 
-sh frpc_install.sh
+> sh frpc_install.sh
 
 如果运行成功在弹出的vi编辑器里会显示frpc.ini的默认配置
 
