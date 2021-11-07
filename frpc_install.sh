@@ -32,10 +32,9 @@ fi                               #ifend
 
 echo "开始下载"
 echo "--------------------------------------"
-wget https://github.com.cnpmjs.org/fatedier/frp/releases/download/v${FRP_VERSION}/frp_${FRP_VERSION}${FRP_ENVIR}.tar.gz#记得加
+wget --no-check-certificate https://github.com.cnpmjs.org/fatedier/frp/releases/download/v${FRP_VERSION}/frp_${FRP_VERSION}${FRP_ENVIR}.tar.gz#记得加
 
 
-#加一个判断条件
 echo "--------------------------------------"
 echo "下载成功！"   
 tar -xzvf frp_${FRP_VERSION}${FRP_ENVIR}.tar.gz
