@@ -17,9 +17,6 @@ fatedier/frp项目：https://github.com/fatedier/frp
 
 > wget https://github.com/foolchicken/frpc_install/blob/main/frpc_install.sh
 
-如果下载失败可以用github镜像源：
-
-> wget --no-check-certificate https://github.com.cnpmjs.org/foolchicken/frpc_install/blob/main/frpc_install.sh
 
 2. 给脚本添加权限：
 
