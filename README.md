@@ -29,3 +29,5 @@ fatedier/frp项目：https://github.com/fatedier/frp
 
 # 备注：
 默认安装目录在 /usr/local，文件名为frp
+
+一定要用root或者管理员权限！
