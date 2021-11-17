@@ -16,6 +16,7 @@ fatedier/frp项目：https://github.com/fatedier/frp
 1. 下载脚本文件：
 
 > wget https://raw.githubusercontent.com/foolchicken/frpc_install/main/frpc_install.sh
+> （如果网络条件不允许可以手动下载再上传到群晖共享文件夹中）
 
 2. 给脚本添加权限：
 
