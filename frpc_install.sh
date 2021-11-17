@@ -11,7 +11,7 @@ echo "2------linux_64"
 echo "3------linux_arm_32"
 echo "4------linux_arm_64"
 echo "--------------------------------------"
-read -a choice
+read choice
 
 if [ ${choice} = 1 ] ; then     #按照输入选择下载类型
 FRP_ENVIR="_linux_386"
